@@ -1,0 +1,11 @@
+**/.DS_Store
+**/.idea
+idea-boardy-support
+*.dat
+target
+test_index_dir
+**/*.m
+text?
+text?.txt
+text?.zip
+**/*.iml
